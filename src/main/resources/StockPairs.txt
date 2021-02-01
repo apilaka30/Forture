@@ -1,0 +1,109 @@
+microsoft:msft
+alphabet:googl
+google:googl
+apple:aapl
+tesla:tsla
+cisco:csco
+hp:hpq
+amazon:amzn
+facebook:fb
+berkshire hathaway:brk-b
+alibaba:baba
+johnson&johnson:jnj
+johnson & johnson:jnj
+johnson and johnson:jnj
+jpmorgan chase & co.:jpm
+exxonmobil:xom
+exxon mobil:xom
+bank of america:bac
+walmart:wmt
+wells fargo:wfc
+royal dutch shell:rds-b
+visa:v
+att:t
+chevron:cvx
+unitedhealth:unh
+pfizer:pfe
+roche holding:rhhby
+china mobile:chl
+home depot:hd
+intel:intc
+taiwan semiconductor:tsm
+verizon:vz
+oracle:orcl
+citigroup:c
+novartis:nvs
+nike:nke
+puma:pumsy
+lenovo:lnvgy
+champion:chmp
+tesla:tsla
+bmw:bmwyy
+snapchat:snap
+kohl’s:kss
+kohls:kss
+jcpenney:jcp
+macy’s:m
+disney:dis
+office depot:odp
+gap:gps
+nasa:nasa
+adobe:adbe
+accenture:acn
+qualcomm:qcom
+nvidia:nvda
+coca-cola:ko
+coca cola:ko
+cocacola:ko
+pepsi:pep
+costco:cost
+target:tgt
+adidas:addyy
+under armour:uaa
+ambercrombie:anf
+starbucks:sbux
+t-mobile:tmus
+tmobile:tmus
+sprint:s
+dropbox:dbx
+arrowhead:arwr
+gillette:gillette
+logitech:logi
+netflix:nflx
+boeing:ba
+general electric:ge
+prudential:pru
+bestbuy:bby
+dell:dell
+toshiba:tosyy
+ford:f
+uber:uber
+vmware:vmw
+bed bath & beyond:bbby
+spotify:spot
+blackberry:bb
+sony:sne
+ebay:ebay
+nintendo:ntdoy
+toyota:tm
+nissan:nsany
+marriott:mar
+hilton:hlt
+hyatt:h
+mcdonalds:mcd
+first republic bank:frc
+johnson and johnson:jnj
+ibm:ibm
+hitachi:hthiy
+panasonic:pcrfy
+twitter:twtr
+salesforce:crm
+flexion:flxn
+samsung:ssnlf
+canon:caj
+nikon:ninoy
+gopro:gpro
+gamestop:gme
+burlington:burl
+exponent:expo
+lowe's:low
